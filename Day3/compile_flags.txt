@@ -1,0 +1,3 @@
+-IC:\Users\Filip U\Documents\CPPCodeLite\AoC\Day3
+-target
+
